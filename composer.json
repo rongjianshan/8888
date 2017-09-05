@@ -1,0 +1,14 @@
+{
+    "name": "rongjianshan/8888",
+    "description": "this is composer demo",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "rongjianshan",
+            "email": "123885801@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
